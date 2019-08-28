@@ -12,7 +12,7 @@
 * { font-family: myriad; }
 .container { max-width: 1880px; }
 h1, h2, h3, h4, h5, h6 { font-family: 'Playfair Display', serif; }
-body { background: #a26e44; overflow-x: hidden; position: relative; background-image: url(../images/test.png), linear-gradient(168deg,#a26e44 50%,#8a4b18 50%) !important; background-attachment: fixed; }
+body { background: #a26e44; overflow-x: hidden; position: relative; background-image: url(../images/shade.png), linear-gradient(168deg,#a26e44 50%,#8a4b18 50%) !important; background-attachment: fixed; }
 a:hover { text-decoration: none; }
 
 /* Navbar */
