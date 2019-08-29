@@ -204,7 +204,6 @@ p.maintainedBy { margin: 60px 0; }
   .explore-title img[alt="left"], .explore-title img[alt="right"] { display: none; }
   .img-wrapper i { font-size: 60px; top: 30%; left: 45%; }
   body {
-    background-image: url(../images/shade.png), -webkit-linear-gradient(-45deg,#A26E45 20%,#8a4b18 19%) !important;
-    /* background-image: url(../images/shade.png), -webkit-linear-gradient(-45deg,#A26E45 24%,#8a4b18 24%) !important; */
+    background-image: url(../images/shade.png), -webkit-linear-gradient(-70deg,#A26E45 20%,#8a4b18 19%) !important;
   }
 }
