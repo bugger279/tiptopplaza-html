@@ -13,13 +13,14 @@
 .container { max-width: 1880px; }
 h1, h2, h3, h4, h5, h6 { font-family: 'Playfair Display', serif; }
 body { overflow-x: hidden; position: relative;
-  background-image: url(../images/shade.png), linear-gradient(-70deg,#a26e44 50%,#8a4b18 50%) !important;
-  background-image: url(../images/shade.png), -o-linear-gradient(-70deg,#a26e44 50%,#8a4b18 50%) !important;
-  background-image: url(../images/shade.png), -moz-linear-gradient(-70deg,#a26e44 50%,#8a4b18 50%) !important;
-  background-image: url(../images/shade.png), -webkit-linear-gradient(-70deg,#a26e44 50%,#8a4b18 50%) !important;
-  background-image: url(../images/shade.png), -ms-linear-gradient(-70deg,#a26e44 50%,#8a4b18 50%) !important;
-  background-image: url(../images/shade.png), -webkit-gradient(-70deg,#a26e44 50%,#8a4b18 50%) !important;
+  background-image: linear-gradient(-70deg,#a26e44 50%,#8a4b18 50%) !important;
+  background-image: -o-linear-gradient(-70deg,#a26e44 50%,#8a4b18 50%) !important;
+  background-image: -moz-linear-gradient(-70deg,#a26e44 50%,#8a4b18 50%) !important;
+  background-image: -webkit-linear-gradient(-70deg,#a26e44 50%,#8a4b18 50%) !important;
+  background-image: -ms-linear-gradient(-70deg,#a26e44 50%,#8a4b18 50%) !important;
+  background-image: -webkit-gradient(-70deg,#a26e44 50%,#8a4b18 50%) !important;
   background-attachment: fixed !important; }
+
 a:hover { text-decoration: none; }
 
 /* Navbar */
